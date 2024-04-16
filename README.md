@@ -7,7 +7,7 @@
 <br>
 
 <h1>Screenshots</h1>
-<img src="branding/Homepage" size="100%">
+<img src="branding/Homepage" size="50%">
 
 <br>
 <h1>Access ⚙️</h1>
