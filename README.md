@@ -6,8 +6,11 @@
 </div>
 <br>
 
-<h1></h1>
-<h1>Access</h1>
+<h1>Screenshots</h1>
+<img src="branding/Homepage" size="100%">
+
+<br>
+<h1>Access ⚙️</h1>
 
 If you have the desire to view the FloraFoco website, just visit [florafoco.github.io](florafoco.github.io).
 
@@ -15,6 +18,6 @@ If you have the desire to view the FloraFoco website, just visit [florafoco.gith
 
 <br>
 <div align="center">
-  <h1>Thanks to our Supporters! </h1>
+  <h1>Thanks to our Supporters! 🙏</h1>
   <img src="branding/foconaturalareas.png" width="200px">
 </div>
